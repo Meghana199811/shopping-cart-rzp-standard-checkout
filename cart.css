@@ -1,0 +1,13 @@
+.razorpay-payment-button{
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #2273a2;
+    border-radius: .25rem;
+    border: 1px solid transparent;
+    float: right;
+    margin-right: 190px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 6px;
+}
